@@ -241,7 +241,7 @@ Locales['fr'] = {
 	['tuning'] = 'Jantes Tuning',
 	['motorcycle'] = 'Jantes Moto',
 	['highend'] = 'Jantes Haut de gamme',
-	['import'] = 'Jantes lowrider #52',
-	['lowrider2'] = 'Jantes Import #2',
+	['import'] = 'Jantes NEW #1',
+	['lowrider2'] = 'Jantes NEW #2',
 
 }
